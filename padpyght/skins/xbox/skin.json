@@ -1,0 +1,70 @@
+{
+  "general": {
+    "anti-aliasing": true,
+    "background": "base",
+    "background-color": [20, 20, 10],
+    "size": [1280, 856]
+  },
+  "sticks": {
+    "left-stick": {
+      "position": [317, 257],
+      "radius": 30,
+      "size": [180, 180]
+    },
+    "right-stick": {
+      "position": [807.5, 452],
+      "radius": 30,
+      "size": [180, 180]
+    }
+  },
+  "buttons": {
+    "btn-A": {
+      "position": [967, 343],
+      "size": [80, 80]
+    },
+    "btn-B": {
+      "position": [1053, 257],
+      "size": [80, 80]
+    },
+    "btn-X": {
+      "position": [881, 257],
+      "size": [80, 80]
+    },
+    "btn-Y": {
+      "position": [967, 170],
+      "size": [80, 80]
+    },
+    "btn-L1": {
+      "position": [330, 54],
+      "size": [292, 107]
+    },
+    "btn-R1": {
+      "position": [950, 54],
+      "size": [292, 107]
+    },
+    "btn-start": {
+      "position": [549.5, 258.5],
+      "size": [57, 57]
+    },
+    "btn-select": {
+      "position": [733.5, 258.5],
+      "size": [57, 57]
+    },
+    "dpad-up": {
+      "position": [474, 465],
+      "size": [192, 192]
+    },
+    "dpad-down": {
+      "position": [474, 465],
+      "size": [192, 192]
+    },
+    "dpad-left": {
+      "position": [474, 465],
+      "size": [192, 192]
+    },
+    "dpad-right": {
+      "position": [474, 465],
+      "size": [192, 192]
+    }
+  }
+}
